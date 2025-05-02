@@ -1,10 +1,18 @@
 feature 1
-clas A(){
+class A(){
 
 }
+
 
 
 //feature 3
 class c(){
 completed 
+}
+
+//feature 2
+class B{
+
+100%
+
 }
