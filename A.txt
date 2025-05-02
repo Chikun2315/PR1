@@ -16,3 +16,11 @@ class B{
 100%
 
 }
+
+
+//feature 5
+class E(){
+
+100%
+
+}
