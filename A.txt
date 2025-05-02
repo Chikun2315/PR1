@@ -17,17 +17,18 @@ class B{
 
 }
 
-<<<<<<< Updated upstream
 
 //feature 5
 class E(){
 
 100%
 
-=======
+
+
+
 //feature 4
 class D{
 
 30%
->>>>>>> Stashed changes
+
 }
