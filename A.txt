@@ -1,18 +1,1 @@
-Sankarsana Sahoo
-ABC
-PSA1
-PSA2
-<<<<<<< Updated upstream
-//feature 2
- class d(){
 
-
-}
-=======
-
-//feature 1
-class c(){
-
-100%
-}
->>>>>>> Stashed changes
