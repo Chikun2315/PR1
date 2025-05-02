@@ -1,16 +1,1 @@
-feature 1{
 
-
-<<<<<<< Updated upstream
-
-
-
-///new code 
-feature 2{
-
-=======
-60%
-
-
->>>>>>> Stashed changes
-}
